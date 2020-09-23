@@ -1,4 +1,4 @@
 # test
 testing repo
 
-this page by [riad alsaqal] (https://www.facebook.com/riyadalsaqall/).
+This site was built using [GitHub Pages](https://pages.github.com/).
